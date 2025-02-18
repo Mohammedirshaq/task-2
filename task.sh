@@ -7,3 +7,4 @@ current_date=$(date "+%Y-%m-%d_%H-%M-%S")
 touch "file_$current_date"
 
 echo "File 'file_$current_date' created."
+echo "hello"
